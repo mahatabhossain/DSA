@@ -1,0 +1,12 @@
+VS Code extension __>
+1) Better C++ syntax by Jeff Hykin
+2) C/C++ IntelliSense by microsoft
+
+Run C/C++ programme __>
+compile: g++ file_name.cpp -o file_name.exe
+Ex: g++ array-IO.cpp -o test
+run the executable: ./file_name
+Ex: ./test
+
+
+
